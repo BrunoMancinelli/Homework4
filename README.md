@@ -29,6 +29,9 @@ In a third terminal write:
 If you want to monitor the robot's movement in RViz, particularly the mapping with the specific configuration required by the task, you can use the following command:
 
     $ ros2 launch rl_fra2mo_description display_fra2mo.launch.py
+    
+You can check the behaviour of the robot by visiting the following link: https://youtu.be/g0aNKmdAj38?si=w9UMfGCH_CoLTM0G
+    
 
 # Note: Depending on the point of the homework you want to test, select the corresponding number from the terminal.
 
